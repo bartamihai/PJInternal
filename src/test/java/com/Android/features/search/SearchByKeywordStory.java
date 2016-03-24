@@ -27,7 +27,8 @@ public class SearchByKeywordStory {
 		anna.looks_for("apple");
 		anna.openResult("Laptopstein");
 		anna.clickImagesTab();
-		//cucu
+		//this is a workaround because the last screenshot is not taken (pending)
+		Serenity.takeScreenshot();
 
 	}
 

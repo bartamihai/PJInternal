@@ -27,6 +27,7 @@ public class SearchByKeywordStory {
 		anna.looks_for("apple");
 		anna.openResult("Laptopstein");
 		anna.clickImagesTab();
+		//cucu
 
 	}
 
